@@ -1,4 +1,4 @@
-Me YUMGUY.
+I'm YUMGUY.
 I love Persona and dnb. Bullet hell games like Touhou are among the top games in my personal opinion.
 
 <!---

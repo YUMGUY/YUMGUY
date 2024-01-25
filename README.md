@@ -13,12 +13,15 @@ You can click the Preview link to take a look at your changes.
 <hr></hr>
 
 ## A Look into my Touhou Fan Game - _Won Best in Programming at TAGD Fall Game Jam 2022_
+<p align="center">
+<img src="https://github.com/YUMGUY/CPU-based-Ray-Tracer/blob/master/sakuyafight-ezgif.com-video-to-gif-converter.gif" width=50%>
+</p>
 
 <hr></hr>
 
-- I am learning how to use machine learning to train japanese voice actors to replace their english dub counterpart
-- I use both Unreal Engine and Unity to create my games and improve my programming knowledge. Here's my [portfolio!](https://timothytipham.wixsite.com/y-timothy-pham-g)
-- Contact me on [Linkedin](https://www.linkedin.com/in/timothy-pham-13b269223/)
+- I am learning how to use machine learning to train japanese voice actors to replace their english dub counterpart :japan:
+- Ask me about my game dev knowledge! I use both Unreal Engine and Unity to create my games and improve my programming knowledge. Here's my [portfolio!](https://timothytipham.wixsite.com/y-timothy-pham-g) :video_game:
+- Contact me on [Linkedin](https://www.linkedin.com/in/timothy-pham-13b269223/) :mailbox_with_mail:
   ## Fun Facts
-- My favorite genres are visual novels and bullet hells
-- My favorite game is Persona 3 FES but the Touhou series is a close second!
+- My favorite genres are visual novels and bullet hells :hearts:
+- My favorite game is Persona 3 FES :performing_arts:	but the Touhou series is a close second!

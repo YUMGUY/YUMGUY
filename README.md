@@ -6,13 +6,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-## A look into my Ray Tracer Project
+## A look into my [Ray Tracer Project](https://github.com/YUMGUY/CPU-based-Ray-Tracer/tree/master)
 <p align="center">
 <img src="https://github.com/YUMGUY/CPU-based-Ray-Tracer/assets/81205938/cffe4845-2249-47b2-82ea-7e8a170cfb8c" width =50%> 
 </p>
 <hr></hr>
 
-## A Look into my Touhou Fan Game - _Won Best in Programming at TAGD Fall Game Jam 2022_
+## A Look into my [Touhou Fan Game](https://github.com/YUMGUY/TouhouFanGame) - _Won Best in Programming at TAGD Fall Game Jam 2022_
 <p align="center">
 <img src="https://github.com/YUMGUY/CPU-based-Ray-Tracer/blob/master/sakuyafight-ezgif.com-video-to-gif-converter.gif" width=50%>
 </p>

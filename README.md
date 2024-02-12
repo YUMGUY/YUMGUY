@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <img src="https://github.com/YUMGUY/YUMGUY/blob/main/BRLCADresult.png" width =50%> 
 </p>
+<p align ="center">This one page report now has improved image rendering, layout design, and more accurate info for the 3D model displayed.</p>
 <hr></hr>
 
 ## A Look into my [Touhou Fan Game](https://github.com/YUMGUY/TouhouFanGame) - _Won Best in Programming at TAGD Fall Game Jam 2022_
@@ -25,9 +26,10 @@ You can click the Preview link to take a look at your changes.
 
 <hr></hr>
 
+## More Info About Me
 - I am learning how to use machine learning to train japanese voice actors to replace their english dub counterpart :japan:
 - Ask me about my game dev knowledge! I use both Unreal Engine and Unity to create my games and improve my programming knowledge. Here's my [portfolio!](https://timothytipham.wixsite.com/y-timothy-pham-g) :video_game:
 - Contact me on [Linkedin](https://www.linkedin.com/in/timothy-pham-13b269223/) :mailbox_with_mail:
-  ## Fun Facts
+## Fun Facts
 - My favorite genres are visual novels and bullet hells :hearts:
 - My favorite game is Persona 3 FES :performing_arts:	but the Touhou series is a close second!

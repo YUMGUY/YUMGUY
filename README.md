@@ -1,5 +1,5 @@
 ## Introduction
-Howdy, I am Timothy Pham, a graduate student of Computer Science from Texas A&M. My main interests are in Software Development and Game Development.
+Howdy, I am Timothy Pham! I graduated in 2023 with a Bachelor's of Science in Computer Science from Texas A&M! My main interests are in Software Development and Game Development with Unity and Unreal Engine. My expertise covers a range of web and mobile application development to graphics programming.
 <!---
 YUMGUY/YUMGUY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

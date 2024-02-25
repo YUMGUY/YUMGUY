@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <img src="https://github.com/YUMGUY/CPU-based-Ray-Tracer/blob/master/sakuyafight-ezgif.com-video-to-gif-converter.gif" width=50%>
 </p>
-
+<p align= "center">I developed this game with Unity as a Touhou fan game!</p>
 <hr></hr>
 
 ## More Info About Me

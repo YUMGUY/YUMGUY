@@ -5,11 +5,11 @@ YUMGUY/YUMGUY is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-
-## A look into my [Ray Tracer Project](https://github.com/YUMGUY/CPU-based-Ray-Tracer/tree/master)
+## A Look into my [Touhou Fan Game](https://github.com/YUMGUY/TouhouFanGame) - _Won Best in Programming at TAGD Fall Game Jam 2022_
 <p align="center">
-<img src="https://github.com/YUMGUY/CPU-based-Ray-Tracer/assets/81205938/cffe4845-2249-47b2-82ea-7e8a170cfb8c" width =50%> 
+<img src="https://github.com/YUMGUY/CPU-based-Ray-Tracer/blob/master/sakuyafight-ezgif.com-video-to-gif-converter.gif" width=50%>
 </p>
+<p align= "center">I developed this game with Unity as a Touhou fan game!</p>
 <hr></hr>
 
 ## Check Out My Contributions to the BRL-CAD 3D Geometry Report System!
@@ -19,12 +19,14 @@ You can click the Preview link to take a look at your changes.
 <p align ="center">This one page report now has improved image rendering, layout design, and more accurate info for the 3D model displayed.</p>
 <hr></hr>
 
-## A Look into my [Touhou Fan Game](https://github.com/YUMGUY/TouhouFanGame) - _Won Best in Programming at TAGD Fall Game Jam 2022_
+## A look into my [Ray Tracer Project](https://github.com/YUMGUY/CPU-based-Ray-Tracer/tree/master)
 <p align="center">
-<img src="https://github.com/YUMGUY/CPU-based-Ray-Tracer/blob/master/sakuyafight-ezgif.com-video-to-gif-converter.gif" width=50%>
+<img src="https://github.com/YUMGUY/CPU-based-Ray-Tracer/assets/81205938/cffe4845-2249-47b2-82ea-7e8a170cfb8c" width =50%> 
 </p>
-<p align= "center">I developed this game with Unity as a Touhou fan game!</p>
 <hr></hr>
+
+
+
 
 ## More Info About Me
 - I am learning how to use machine learning to train japanese voice actors to replace their english dub counterpart :japan:

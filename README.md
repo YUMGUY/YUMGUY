@@ -34,5 +34,5 @@ You can click the Preview link to take a look at your changes.
 - Contact me on [Linkedin](https://www.linkedin.com/in/timothy-pham-13b269223/) :mailbox_with_mail:
 ## Fun Facts
 - My favorite genres are visual novels and bullet hells :hearts:
-- My favorite game is Persona 3 FES :performing_arts:	but the Touhou series is a close second!
+- My most favorite game is Persona 3 FES :performing_arts:	but the Touhou series is a close second!
 
